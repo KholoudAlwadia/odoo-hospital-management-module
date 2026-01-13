@@ -1,22 +1,26 @@
 # Hospital Management Module (Odoo)
 
-Custom Odoo module designed to manage hospital patients and appointments.
+Custom Odoo module developed to manage hospital patients, appointments, and internal workflows.
 
 ## Overview
-This module provides core patient management features including appointments, access control, reporting, and workflow states.
-It was built as a custom business module following Odoo best practices.
+This project is a business-focused Odoo customization module designed to support hospital operations.
+It provides structured patient management, appointment tracking, access control, and reporting features following Odoo best practices.
 
 ## Key Features
-- Patient records & appointments
+- Patient records management
+- Appointment scheduling
 - Role-based access control
-- State management & workflow actions
-- PDF reporting
-- Chatter integration
+- Workflow states and status transitions
+- PDF report generation
+- Chatter integration for record tracking
 
 ## Tech Stack
 - Python
-- Odoo Community
-- XML (Views & Menus)
+- Odoo Community Edition
+- XML (Views, Menus, Actions)
 
-> This project was developed as part of hands-on system building and customization using Odoo.
-Note: This project reflects hands-on system development experience and is not a commercial product.
+## Purpose
+This module was developed as hands-on experience in building and customizing business systems using Odoo.
+It demonstrates backend logic, data modeling, access rules, and workflow implementation.
+
+> Note: This project represents system development experience and is not a commercial product.
